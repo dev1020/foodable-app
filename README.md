@@ -1,4 +1,4 @@
-# foodable
+* FOODABLE POS
 
 A new Flutter project.
 
