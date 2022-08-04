@@ -1,6 +1,6 @@
 # FOODABLE POS
 
-A new Flutter project.
+A simple Point of Sale application
 
 ## Getting Started
 
