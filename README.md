@@ -1,4 +1,4 @@
-# FOODABLE POS
+# FOODABLE POS - A SIMPLE POS FOR DESKTOP AND ANDROID 
 
 A simple Point of Sale application
 
